@@ -34,7 +34,3 @@ export interface ExerciseType {
 export interface CourseIDType {
   _id: string;
 }
-
-export interface CourseIDType {
-  courseId: string;
-}
